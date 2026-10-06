@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Rushford Clean';
+  src: url('Rushfordclean-rgz89.otf') format('opentype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'umeboshizatumemo';
+  src: url('umeboshi_zatumemo.ttf') format('opentype');
+  font-style: normal;
+}
+
+body.homepage {
+  background: #6C3BFF;
+  overflow: scroll;
+  display: block;
+  width: 100%; 
+  height: 100%; 
+  position: relative;
+}
+
+.title {
+    position: absolute;
+    text-align: center;
+    font-family: 'Rushford Clean';
+    font-weight: 400;
+    font-size: 350px;
+    line-height: 280px;
+    color: #FFF020;
+    word-wrap: break-word;
+}
+
+.subtitle {
+    position: absolute;
+    text-align: center;
+    font-family: 'Rushford Clean';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 51.2px;
+    color: #FFF020;
+    word-wrap: break-word;
+}
+
+.credit {
+    width: 100%; 
+    text-align: center;
+    top: 500px; 
+    color: #FFF020; 
+    font-size: 32px; 
+    font-family: 'umeboshizatumemo'; 
+    line-height: 36.80px; 
+    word-wrap: break-word;
+}
