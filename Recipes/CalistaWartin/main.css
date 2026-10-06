@@ -1,0 +1,57 @@
+body {
+    background: radial-gradient(circle at 25% 25%, #00CEC9 0%, transparent 42%), radial-gradient(circle at 70% 35%, #55EFC4 0%, transparent 35%), radial-gradient(circle at 45% 70%, #00B894 0%, transparent 28%), #F0FFF4;
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: #F6FFB9;
+    font-family: 'Fat';
+    font-size: 150px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: 80px;
+}
+
+h3 {
+    margin: 80px 80px;
+    text-align: center;
+}
+
+.desc {
+    box-sizing: border-box;
+}
+
+.desc {
+    color: #005e2e;
+    text-align: center;
+    font-family: 'Glass Antiqua', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    top: 5px;
+}
+
+h2 {
+    color: #c8ff53;
+    text-align: left;
+    font-family: 'Fat';
+    font-size: 50px;
+    font-weight: 900;
+    position: absolute;
+    left: 1px;
+    top: 0px;
+}
+
+.rectangle-1 {
+    background: #068874;
+    width: 416px;
+    height: 53px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
