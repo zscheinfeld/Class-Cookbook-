@@ -1,0 +1,46 @@
+.Heading{
+    font-size:20vw;
+    text-align: center;
+    font-family:"Ribeye", serif;
+    background-color:oklch(81.573% 0.1264 59.257);
+    color:oklch(0.6658 0.1838 0);
+    border-radius: 50px;
+    padding: 20px;
+    margin: 300px 20px 300px 20px;
+    line-height: 0.95em;
+}
+
+.Heading2{
+    font-family: "Ribeye", serif;
+    margin: 300px 20px 300px 20px;
+    color:oklch(0.6658 0.1838 0);
+    text-align: center;
+
+}
+
+h3{
+    font-size:14vw;
+    text-align:center;
+    background-color:oklch(0.8136 0.1782 230.93);
+    padding: 20px;
+    color:oklch(0.6658 0.1838 0);
+    border-radius: 50px;
+    font-family: "Ribeye", serif;
+    
+}
+
+p{
+    font-family: "Ribeye", serif;
+    margin: 300px 20px 300px 20px;
+    color:oklch(0.6658 0.1838 0);
+    text-align: center;
+    font-size:3em;
+}
+
+.list{
+    
+}
+
+body{
+    background-color:oklch(0.9485 0.1 95.65);
+}
