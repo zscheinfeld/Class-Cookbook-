@@ -1,0 +1,29 @@
+body {background-image: linear-gradient(rgb(251, 218, 136),rgb(151, 90, 6));
+}
+h1{font-size: 85px;
+  font-family: "Petit Formal Script", cursive;
+  font-weight: bold;
+  font-style: normal;
+}
+.zoom-text {
+  transition: transform 0.3s ease; 
+}
+.zoom-text:hover {
+  transform: scale(1.1); 
+}
+h2 {
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+}
+h3 {font-family: "Bodoni Moda", serif;
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: normal;}
+
+p {font-family: "Bodoni Moda", serif;
+  font-size: 25px;
+  font-weight: lighter;
+  font-style: normal;
+}
