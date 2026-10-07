@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(255, 248, 240);
+    cursor:default;
+}
+h1, h3 {
+    font-family:sans-serif;
+    letter-spacing:-7px;
+    margin-right:1rem;
+}
+h1 {
+    font-weight:bold;
+    line-height:170px;
+    font-size:240px;
+    margin-top:3rem;
+    color:red;
+}
+span:hover {
+    color:rgb(0, 0, 0);
+}
+h2 {
+    font-family:"helvetica";
+    font-size:96px;
+    letter-spacing:-7px;
+    line-height:90px;
+    margin-top:-8rem;
+    padding-right:10rem;
+}
+.red:hover {
+    color:red;
+}
+h3 {
+    font-size:72px;
+    text-align:right;
+    color:red;
+}
+p {
+    font-family:"helvetica";
+    line-height:10px;
+    letter-spacing:-4px;
+    font-size:36px;
+    margin-right:1rem;
+    text-align:right;
+}
+hr {
+    border:none;
+    height:72px;
+    background-color:red;
+}
