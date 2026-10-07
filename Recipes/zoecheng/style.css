@@ -1,0 +1,47 @@
+
+@import url('https://googleapis.com');
+
+body {
+    background-image: linear-gradient(#ff4e89, #ff6d50, #ffc756);
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 6em;
+    color: #4a0000;
+}
+
+strong {
+    font-family: "Fontdiner Swanky", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+    color: #4a0000; 
+}
+
+p { 
+  font-family: "Playwrite AU VIC", cursive; 
+  font-optical-sizing: auto; 
+  font-weight: 400; 
+  font-style: normal; 
+  font-size: 1.2em; 
+  color: #4a0000; 
+  line-height: 1.5; 
+  margin: 20px; 
+}
+
+ul {
+    font-family: "Playwrite AU VIC", cursive; 
+    list-style-type: disc;
+    margin-left: 40px;
+    color: #4a0000;
+}
+li {
+    font-family: "Playwrite AU VIC", cursive; 
+    font-size: 1.2em; 
+    color: #4a0000; 
+    line-height: 1.5; 
+    margin: 10px 0;
+}
