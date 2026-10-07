@@ -1,0 +1,95 @@
+body {
+    background: linear-gradient(270deg, #41a69e, #973fa5);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+h1 {
+    color: #004b46;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+h2 {
+    color: #43124b;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+h3
+{
+    color: #004b46;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+p {
+    color: #43124b;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+li {
+    color: #004b46;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+blockquote {
+    color: #43124b;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+img[src="https://reforj.wiki.gg/images/Noble_Glass_Shard_TU8.png?92764c"] {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+img[src="https://64.media.tumblr.com/1667887ca5bf354a72716d4de7ac4075/5882674959e35d9f-ef/s1280x1920/0acff7b38d3f8002fe58c7cdf4744509b3bb3b5d.jpg"] {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  align: center;
+}
+
+img[src="https://sarahremmer.com/wp-content/uploads/2024/07/picky-eating-and-ADHD-blog-post.png"] {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  align: center;
+}
+
+background {
+    color: #41a69e; 
+}
